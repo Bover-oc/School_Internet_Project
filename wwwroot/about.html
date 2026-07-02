@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About - Ilan Cohen Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="shared-header"></div>
+    <div id="about_page">
+    <h1 class="page_header">About</h1>
+    <h3> About The Artist</h3>
+    <p><br>Ilan Cohen is an artist, photographer and a student studying visual art in Thelma Yellin High School.<br>Ilan incorporates different analog and digital technics in his video and animation work. </p>
+    <h3>The Website</h3>
+    <p><br>This website was built as part of a school internet project. It uses HTML, CSS and JavaScript for the frontend, as well as c# for the backend.<br> </p>
+    <table>
+                <thead>
+                    <tr>
+                        <th>Part</th>
+                        <th>What it does</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>HTML pages</td>
+                        <td>Provide the content for Home, About, Photography, Paintings & Drawings and Video art & Animations.</td>
+                    </tr>
+                    <tr>
+                        <td>CSS file</td>
+                        <td>Keeps the layout clean and consistent without a complex design.</td>
+                    </tr>
+                    <tr>
+                        <td>JavaScript file</td>
+                        <td>Handles a few basic tasks such as the dynamic features and one API call.</td>
+                    </tr>
+                    <tr>
+                        <td>C# file</td>
+                        <td>Serves the pages and handles the new comments in the comment section below.</td>
+                    </tr>
+                </tbody>
+            </table>
+    <section>
+            <h2>Comment about the projects!</h2>
+
+            <textarea id="comments" rows="10" readonly>Loading comments...</textarea>
+
+            <form method="post" action="/api/comment">
+                <p>
+                    <label for="comment">New comment:</label>
+                </p>
+                <p>
+                    <input id="comment" name="comment" type="text">
+                    <button type="submit">Send</button>
+                </p>
+            </form>
+        </section>
+    
+    <div id="shared-footer"></div>
+    <script src="script.js"></script>
+</body>

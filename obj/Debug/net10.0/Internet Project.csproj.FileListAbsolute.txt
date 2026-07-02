@@ -1,0 +1,77 @@
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\Internet Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\Internet Project.AssemblyInfoInputs.cache
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\Internet Project.AssemblyInfo.cs
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\Internet Project.csproj.CoreCompileInputs.cache
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\Internet Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\omerc\OneDrive\Desktop\Internet Project\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\omerc\OneDrive\Desktop\Internet Project\bin\Debug\net10.0\appsettings.json
+C:\Users\omerc\OneDrive\Desktop\Internet Project\bin\Debug\net10.0\Internet Project.staticwebassets.runtime.json
+C:\Users\omerc\OneDrive\Desktop\Internet Project\bin\Debug\net10.0\Internet Project.staticwebassets.endpoints.json
+C:\Users\omerc\OneDrive\Desktop\Internet Project\bin\Debug\net10.0\Internet Project.exe
+C:\Users\omerc\OneDrive\Desktop\Internet Project\bin\Debug\net10.0\Internet Project.deps.json
+C:\Users\omerc\OneDrive\Desktop\Internet Project\bin\Debug\net10.0\Internet Project.runtimeconfig.json
+C:\Users\omerc\OneDrive\Desktop\Internet Project\bin\Debug\net10.0\Internet Project.dll
+C:\Users\omerc\OneDrive\Desktop\Internet Project\bin\Debug\net10.0\Internet Project.pdb
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\scopedcss\bundle\Internet Project.styles.css
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\Internet Project.dll
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\refint\Internet Project.dll
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\Internet Project.pdb
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\Internet Project.genruntimeconfig.cache
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\ref\Internet Project.dll
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\compressed\5944qruzjm-{0}-6i1hx04hiw-6i1hx04hiw.gz
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\compressed\e1qqbjrmeb-{0}-zn0s8jmtkz-zn0s8jmtkz.gz
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\compressed\4h5cy9yes4-{0}-hmd1zw05o9-hmd1zw05o9.gz
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\compressed\cgl6yjcste-{0}-03g7hsopom-03g7hsopom.gz
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\compressed\vv7kv2ytu1-{0}-1upit0tblj-1upit0tblj.gz
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\compressed\0dr0ywo1oi-{0}-brftlnkes2-brftlnkes2.gz
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\Internet Project.sourcelink.json
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\compressed\qfvyhblnuj-{0}-trojjgwpzj-trojjgwpzj.gz
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\compressed\k4583tt5nh-{0}-x3o6uuyvgm-x3o6uuyvgm.gz
+C:\Users\omerc\OneDrive\Desktop\Internet Project\obj\Debug\net10.0\compressed\3cyzlerqfy-{0}-bhvcln9jqx-bhvcln9jqx.gz
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\bin\Debug\net10.0\appsettings.json
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\bin\Debug\net10.0\Internet Project.staticwebassets.runtime.json
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\bin\Debug\net10.0\Internet Project.staticwebassets.endpoints.json
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\bin\Debug\net10.0\Internet Project.exe
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\bin\Debug\net10.0\Internet Project.deps.json
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\bin\Debug\net10.0\Internet Project.runtimeconfig.json
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\bin\Debug\net10.0\Internet Project.dll
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\bin\Debug\net10.0\Internet Project.pdb
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\Internet Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\Internet Project.AssemblyInfoInputs.cache
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\Internet Project.AssemblyInfo.cs
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\Internet Project.csproj.CoreCompileInputs.cache
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\Internet Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\scopedcss\bundle\Internet Project.styles.css
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\compressed\qfvyhblnuj-{0}-trojjgwpzj-trojjgwpzj.gz
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\compressed\5944qruzjm-{0}-6i1hx04hiw-6i1hx04hiw.gz
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\compressed\e1qqbjrmeb-{0}-zn0s8jmtkz-zn0s8jmtkz.gz
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\compressed\cgl6yjcste-{0}-03g7hsopom-03g7hsopom.gz
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\compressed\vv7kv2ytu1-{0}-1upit0tblj-1upit0tblj.gz
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\compressed\0dr0ywo1oi-{0}-brftlnkes2-brftlnkes2.gz
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\compressed\k4583tt5nh-{0}-x3o6uuyvgm-x3o6uuyvgm.gz
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\compressed\4h5cy9yes4-{0}-hmd1zw05o9-hmd1zw05o9.gz
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\compressed\3cyzlerqfy-{0}-bhvcln9jqx-bhvcln9jqx.gz
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\Internet Project.dll
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\refint\Internet Project.dll
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\Internet Project.pdb
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\Internet Project.genruntimeconfig.cache
+C:\Users\omerc\OneDrive\Desktop\School Internet Project\obj\Debug\net10.0\ref\Internet Project.dll
